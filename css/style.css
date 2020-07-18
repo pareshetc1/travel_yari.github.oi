@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+body{
+  font-family: 'Nunito', sans-serif;
+}
+.bg-teal,.btn-teal{
+  background-color:#085757 !important;
+}
+.text-teal{
+  color:#085757 !important;
+}
+.carousel .carousel-indicators li {
+  width: 30px;
+  height: 3px;
+  -webkit-border-radius: 0%;
+  border-radius: 00%;
+}
+.carousel-caption{
+  bottom: 200px;
+}
+ 
+
